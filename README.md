@@ -17,7 +17,7 @@
 
 ## 📸 Terminal Screenshot
 
-> _📷 Add a screenshot of the terminal here_
+
 
 ![term-SS](https://github.com/user-attachments/assets/66a9aa0a-7956-430e-9c86-f5a561b84ced)
 
@@ -26,7 +26,7 @@
 
 ## 🌐 Web Interface Screenshot
 
-> _📷 Add a screenshot of the web UI here_
+
 
 ![SS-web](https://github.com/user-attachments/assets/eef73850-1b77-4585-af6c-e67710793a63)
 
